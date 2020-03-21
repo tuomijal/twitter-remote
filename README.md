@@ -2,7 +2,9 @@
 
 ![](./results/figures/2020-03-20-network.png)
 
-![](./results/video/pyvis_demo.gif)
+
+## Interaktiivinen verkostotarkastelu
+![](./results/videos/bokeh_demo.gif)
 
 ### TODO:
 - [ ] toimijoiden verkostoanalyysi
