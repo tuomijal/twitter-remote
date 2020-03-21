@@ -10,6 +10,10 @@
 
 ![](./results/figures/2020-03-21-hashtag-most-used-20-freqs.png)
 
+## Sanapilvi
+
+![](./results/figures/2020-03-21-wordcloud.png)
+
 ### TODO:
 - [ ] toimijoiden verkostoanalyysi
 - [ ] hashtagien yhteiskäyttö (co-occurence)
